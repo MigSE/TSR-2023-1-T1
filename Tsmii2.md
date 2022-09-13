@@ -4,13 +4,9 @@ Entrega de la tarea 1 de la asignatura.
 Practica de documentación en Markdown
 
 ## Contenido
-
-- [TSR-2023-1-T1](#tsr-2023-1-t1)
   - [Contenido](#contenido)
   - [Introducción](#introducción)
   - [Desarrollo](#desarrollo)
-  - [**Escribir expresiones en línea**](#escribir-expresiones-en-línea)
-  - [**Escribir expresiones como bloque**](#escribir-expresiones-como-bloque)
   - [Conclusiones](#conclusiones)
   - [Autor](#autor)
   - [Referencias](#referencias)
@@ -204,9 +200,3 @@ Para conocer más acerca del formato de **Markdown** con la personalización de 
 
 [^1]: I.A. Glover and P.M. Grant, Digital Communications, 3rd ed. Harlow: Prentice Hall, 2009. 
 
-[^2]: J. B. Kuipers, [Quaternions and rotation sequences](https://amzn.to/2RY2lwI). 
-  Princeton, NJ: Princeton University Press, 2002. (Chapter 5,  Section 5.14 “Quaternions to Matrices”, pg. 125)
-
-[^3]: H.-L. Pham, V. Perdereau, B. Adorno, en P. Fraisse, 
-  “Position and Orientation Control of Robot Manipulators Using Dual Quaternion Feedback”, 11 2010, bll 658–663. 
-  <https://www.researchgate.net/publication/224200087_Position_and_Orientation_Control_of_Robot_Manipulators_Using_Dual_Quaternion_Feedback>
