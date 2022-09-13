@@ -1,18 +1,19 @@
-#  Practica de documentación en Markdown
+#  TSR-2023-1-T1 
+Entrega de la tarea 1 de la asignatura.
 
-
-| Código | Description |
-| ------:| ----------- |
-| **TSR-2023-I** | Tarea 01 |
-
+Practica de documentación en Markdown
 
 ## Contenido
 
-- [Introducción](#introduccion)
-- [Desarrollo](#desarrollo)
-- [Autor](#autor)
-- [Conclusiones](#Conclusiones)
-- [Referencias](#referencias)
+- [TSR-2023-1-T1](#tsr-2023-1-t1)
+  - [Contenido](#contenido)
+  - [Introducción](#introducción)
+  - [Desarrollo](#desarrollo)
+  - [**Escribir expresiones en línea**](#escribir-expresiones-en-línea)
+  - [**Escribir expresiones como bloque**](#escribir-expresiones-como-bloque)
+  - [Conclusiones](#conclusiones)
+  - [Autor](#autor)
+  - [Referencias](#referencias)
 
 ## Introducción
 
@@ -159,7 +160,7 @@ no sea takimata sanctus est Lorem ipsum dolor sit amet[^3]. ← ***nota al pie i
 
 ***[Nombre del autor o listado de los integrantes del equipo]***
 
-**Autor**  Sanchez Espinosa Miguel Angel [GitHub profile](https://github.com/rivascf)
+**Autor**  Sanchez Espinosa Miguel Angel [GitHub profile](https://github.com/MigSE)
 
 
 ## Referencias
