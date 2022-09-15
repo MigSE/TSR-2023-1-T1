@@ -22,7 +22,7 @@ Practica de documentación en Markdown
 
 ## Introducción
 
-Texto sobre robots móviles
+los Robots móviles representan una configuración de los robots de servicio, a continuación se desarrolla una investigación sobre conceptos básicos de estos robots.
 
 ## Desarrollo
 
@@ -70,6 +70,15 @@ La maniobrabilidad de un sistema.
 - #### Modelo cinemático
 
 ![Modelo cinematico](modelo_cinematico.png)
+dado que el robot tiene una configuración de dos ruedas, Las ecuaciones cinemáticas del punto medio del eje entre
+las ruedas activas, referidas a un sistema de referencia
+global son :
+
+$x^.=v(t)cos(\theta(t))$
+
+$y^.=v(t)sin(\theta(t))$
+
+$\theta^.(t)=\omega(t)$
 
 - #### Sensores y actuadores que lo integran
 
@@ -102,7 +111,11 @@ La maniobrabilidad de un sistema.
 
 ## Conclusiones
 
-Conclusiones o cierre al trabajo realizado.
+Los robots móviles tienen diversas configuraciones, todas con diversas aplicaciones y por consiguiente diferente modelado, y restricciones cinemáticas.
+
+Por otra parte, los problemas elementales de la robótica son la localización, odometría y plaeación de ruta.
+
+Un ejemplo de robot móvil es el turtlebot3, que utiliza diversos temas y nodos en ROS para su funcionamiento, así como sensores y hardware necesario para los problemas elementales mencionados.
 
 ## Autor  
 
@@ -110,11 +123,16 @@ Sanchez Espinosa Miguel Angel [GitHub profile](https://github.com/MigSE)
 
 ## Referencias
 
-https://core.ac.uk/download/pdf/229164924.pdf
-http://www.upv.es/vltmodels/v2019/C07/07-07-DEFINICION-RESTRICCIONES.pdf
-https://ocw.unican.es/pluginfile.php/2949/course/section/2799/Tema%207%20-%20Ana%CC%81lisis%20Cinema%CC%81tico%20III.pdf
-http://www.kramirez.net/Robotica/Material/Presentaciones/Localizacion.pdf
-http://catarina.udlap.mx/u_dl_a/tales/documentos/lis/munoz_r_o/capitulo4.pdf
-http://blog.electricbricks.com/2010/07/sistemas-holonomicos/
+[1] B. G., «ROBOTS MÓVILES Teoría, aplicaciones y Experiencias,» 2002. [En línea]. Available: <https://core.ac.uk/download/pdf/229164924.pdf>.
 
-[^1]: I.A. Glover and P.M. Grant, Digital Communications, 3rd ed. Harlow: Prentice Hall, 2009.
+[2] J. Oliver, «M4 – Análisis Computacional de Mecanismos Planos,» 2014. [En línea]. Available: <http://www.upv.es/vltmodels/v2019/C07/07-07-DEFINICION-RESTRICCIONES.pdf>.
+
+[3] A. Fernandez, «Máquinas y Mecanismos,» [En línea]. Available: <https://ocw.unican.es/pluginfile.php/2949/course/section/2799/Tema%207%20-%20Ana%CC%81lisis%20Cinema%CC%81tico%20III.pdf>.
+
+[4] K. Ramírez, «Localización,» [En línea]. Available: <http://www.kramirez.net/Robotica/Material/Presentaciones/Localizacion.pdf>.
+
+[5] «Capítulo 4 ¨planeación de Rutas,» [En línea]. Available: <http://catarina.udlap.mx/u_dl_a/tales/documentos/lis/munoz_r_o/capitulo4.pdf>.
+
+[6] «Sistemas holonómicos,» 16 07 2017. [En línea]. Available: <http://blog.electricbricks.com/2010/07/sistemas-holonomicos/>.
+
+[7] J. Valencia, «MODELO CINEMÁTICO DE UN ROBOT MÓVIL TIPO DIFERENCIAL Y NAVEGACIÓN,» 05 2009. [En línea]. Available: <https://www.google.com.mx/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjN7PL94JX6AhXHDEQIHXgiBj4QFnoECFQQAQ&url=https%3A%2F%2Fdialnet.unirioja.es%2Fdescarga%2Farticulo%2F4729008.pdf&usg=AOvVaw2iqF3j2MbTFmSFVlKn_s82>.
